@@ -1,7 +1,7 @@
 ### Customized boot2docker replacement 
 
 For VSCode remote container development on Windows [docker-desktop] is now 
-recommended. [Docker desktop] requires you to install WSL2 which, for me, resulted in
+recommended. [Docker-desktop] requires you to install WSL2 which, for me, resulted in
 a boat load of problems with my existing Virtual Box VMs.
 
 This is an Ubuntu 16.04 LTS minimal VirtualBox VM configured as a drop-in replacement
